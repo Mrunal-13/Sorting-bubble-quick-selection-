@@ -1,2 +1,6 @@
 # Sorting-bubble-quick-selection-
-This repo is about given you basic algo and walkthrough of sorting technique
+# SORTING TECHNIQUES
+## Table of contents 
+1)[Bubble Sort](#Bubble-Sort)
+  1)[Introduction](#Introduction)
+  2)[What is bubble sort](#What-is-bubble-sort)
