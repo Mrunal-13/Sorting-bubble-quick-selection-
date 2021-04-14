@@ -61,4 +61,4 @@ Here we have three among them bubble sort,quick sort,selection sort.
 ## Bubble sort
 
 This is the sorting technique to sort in bubbles
-
+bubble sort sorts the algo in ascending oeder
