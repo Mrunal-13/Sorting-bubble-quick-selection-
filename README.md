@@ -80,6 +80,6 @@ Here we have three among them bubble sort,quick sort,selection sort.
    
    (2,3,**5**,**4**,9)-->(2,3,**4**,**5**,9)
    
-   (2,3,4,**5**,**9**)-->(2,3,4,**5**,**9**)
+   (2,3,4,**5**,**9**)-->(2,3,4,**5**,**9**)-->it does not swap 5 and 9 as 5<9.
    
    
