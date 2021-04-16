@@ -60,5 +60,8 @@ Here we have three among them bubble sort,quick sort,selection sort.
 
 ## Bubble sort
 
-This is the sorting technique to sort in bubbles
-bubble sort sorts the algo in ascending oeder
+### Introduction
+    
+   Bubble sort is simply an algorithm that repeatedly iterates the list.In each iteration,it compares one element of list to adjacent element and swaps if it is placed in wrong    order.Each ietration is called as pass and pass through the list is repeated until the list is sorted.
+   The larger element is bubbled to end of list and smaller is bubbled to top of the list.
+   
