@@ -65,3 +65,18 @@ Here we have three among them bubble sort,quick sort,selection sort.
    Bubble sort is simply an algorithm that repeatedly iterates the list.In each iteration,it compares one element of list to adjacent element and swaps if it is placed in wrong    order.Each ietration is called as pass and pass through the list is repeated until the list is sorted.
    The larger element is bubbled to end of list and smaller is bubbled to top of the list.
    
+### What is bubble sort?
+
+   The basic defination of bubble sort is given in above introduction.
+   lets see what is actual working behind bubble sort
+   
+   lets take example to sort the list  5 2 3 4 9.
+   
+   **First pass**
+   
+   (**5**,**2**,3,4,9)-->(**2**,**5**,3,4,9)-->>it compared 0th and 1st element and swapped because 5>2.
+   
+   (2,**5**,**3**,4,9)-->(2,**3**,**5**,4,9)
+   
+   
+   
