@@ -82,4 +82,10 @@ Here we have three among them bubble sort,quick sort,selection sort.
    
    (2,3,4,**5**,**9**)-->(2,3,4,**5**,**9**)-->it does not swap 5 and 9 as 5<9.
    
+   (2,3,4,5,8) since we got sorted array in first pass.we can skip other passes or perform it.
+   if other two passes are performed than it will just iterate and not swap elements.
+   the final array generated in last pass will be sorted array.
+   
+   
+  
    
