@@ -128,9 +128,21 @@ Here we have three among them bubble sort,quick sort,selection sort.
    
 ### Analysis and uses of bubble sort
  
+ It leads to some intresting theoritical problems.it is also the fact that it has catchy name.In computer graphics bubble sort has capability to determine the small errors.
+ it is not widely used.
  
-   
-   
+ **time complexity of bubble sort**
+ 
+ *best case* : - O(n)
+ 
+ *worst case*:-   O(n^2)
+ 
+ *average case* :-  O(n^2)
+ 
+ 
+ ## Quick Sort
+ 
+ 
    
    
    
