@@ -87,5 +87,35 @@ Here we have three among them bubble sort,quick sort,selection sort.
    the final array generated in last pass will be sorted array.
    
    
-  
+### Algorithm of bubble sort
+
+
+   step 1:- start
+   
+   step 2:-take inside the array of numbers to perform bubble sort on.
+   
+   step 3:- find length of array.
+   
+   step 4:- intialize the counter i from i to n-1.
+   
+   step 5 ;- if num>adjecent num then swap
+   
+   step 6;- else do not swap
+   
+   step 7:- return to step 4 and increment i till all passes are done.
+   
+   step 8 ;-print sorted array.
+   
+   step 9;- stop
+   
+   
+   The algorithm can be optimized according to your ideas this the basic approach which covers all the passes.
+   
+   **peusdo code**
+   
+   
+   
+### 
+   
+   
    
