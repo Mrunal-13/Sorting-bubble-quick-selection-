@@ -112,10 +112,25 @@ Here we have three among them bubble sort,quick sort,selection sort.
    The algorithm can be optimized according to your ideas this the basic approach which covers all the passes.
    
    **peusdo code**
+     array=[]
+     print(array)
+     
+    def bubblesort(array):
+        for i =0 to i=length of array:
+            for j=0 to length of array -i-1:
+                  if array at j >array at j+1:
+                    ( array[j],array[j+1])=(array[j+1],array[j])
+        print(array)
+
+     bubblesort(array)
+                
    
    
+### Analysis and uses of bubble sort
+ 
+ 
    
-### 
+   
    
    
    
